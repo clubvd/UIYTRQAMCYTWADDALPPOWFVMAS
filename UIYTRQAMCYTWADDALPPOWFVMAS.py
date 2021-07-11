@@ -14,9 +14,9 @@ PDA = """
 ꜰɪʟᴇ ɴᴀᴍᴇ:☝🏻
 ꜰɪʟᴇ ᴛʏᴘᴇ: 🎧.๓p3
 -----
-ʙʀᴏᴜɢʜᴛ ʙʏ: @YOUTUBELI_BOT
-ᴄʜᴀɴɴᴇʟ: @HYPEVOIDLAB
-ɢʀᴏᴜᴘ: @HYPEVOIDS
+ʙʀᴏᴜɢʜᴛ ʙʏ: @hvyoutubebot
+ᴄʜᴀɴɴᴇʟ: @hypevoidlab
+ɢʀᴏᴜᴘ: @hypevoids
 -----
 Dҽʋ Mҽɳƚισɳ:
 🛡 @HYPEVOIDSOUL 
@@ -29,9 +29,9 @@ PDV ="""
 ꜱᴛʀᴇᴀᴍ ᴠɪᴅᴇᴏ:☝🏻👀
 ꜰɪʟᴇ ᴛʏᴘᴇ: 🎬.๓p4
 -----
-ʙʀᴏᴜɢʜᴛ ʙʏ: @YOUTUBELI_BOT
-ᴄʜᴀɴɴᴇʟ: @HYPEVOIDLAB
-ɢʀᴏᴜᴘ: @HYPEVOIDS
+ʙʀᴏᴜɢʜᴛ ʙʏ: @hvyoutubebot
+ᴄʜᴀɴɴᴇʟ: @hypevoidlab
+ɢʀᴏᴜᴘ: @hypevoids
 -----
 Dҽʋ Mҽɳƚισɳ:
 🛡 @HYPEVOIDSOUL 
@@ -53,7 +53,7 @@ from pyrogram.types import (InlineKeyboardMarkup,InlineKeyboardButton)
 ASBT = InlineKeyboardMarkup([        
         [InlineKeyboardButton(
           "🎬『 ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ 』",          
-          url="https://t.me/YTMLI_BOT")],
+          url="https://t.me/hvyoutubebot")],
         [InlineKeyboardButton(
           "🍺『 ɢʀᴏᴜᴘ 』",          
           url="https://t.me/HYPEVOIDS")],
@@ -64,7 +64,7 @@ ASBT = InlineKeyboardMarkup([
 VSBT = InlineKeyboardMarkup([        
         [InlineKeyboardButton(
           "🎬『 ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ 』",          
-          url="https://t.me/YTMLI_BOT")],
+          url="https://t.me/hvyoutubebot")],
         [InlineKeyboardButton(
           "🍺『 ɢʀᴏᴜᴘ 』",          
           url="https://t.me/HYPEVOIDS")],
